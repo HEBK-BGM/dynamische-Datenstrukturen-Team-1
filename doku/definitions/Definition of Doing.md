@@ -5,3 +5,4 @@
 4: Jeder soll die Aufgaben verstehen
 5: Wenn jemand seine Aufgaben nicht versteht, dann wird er von den Teammitgliedern geholfen
 6: Pausen sind erlaubt
+7: Teammeetings in Discord
